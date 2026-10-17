@@ -25,7 +25,7 @@ Traditional e-commerce search has **three critical limitations**:
 **StyleSage solves this** by implementing a **semantic multi-modal search** that understands both visual appearance and natural language descriptions.
 
 ---
-
+Open the local URL printed by Streamlit https://stylesage.streamlit.app/
 ## 🏗️ System Architecture
 
 ```mermaid
