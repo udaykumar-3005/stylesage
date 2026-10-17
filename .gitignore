@@ -7,3 +7,9 @@ venv/
 *Zone.Identifier
 artifacts/embeddings.npy
 .env
+
+venv/
+*.log
+yolov8n.pt
+sample_dataset/
+sample_fashion_dataset/
